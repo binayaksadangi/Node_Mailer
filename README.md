@@ -14,7 +14,7 @@ This is a mail sender node application which uses the  nodeMailer node module. Y
 <br>
 
 ### Demonstration
-This is the interface of our Node App<br><br>
+This is the interface of my Node App<br><br>
 ### view 1
 <img src="dv1.jpg" alt="Interface" height="100%" width="100%"></br>
 ### view 2
